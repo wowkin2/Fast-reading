@@ -1,0 +1,25 @@
+#target {
+	display: inline-block;
+	font-family: 'Courier New';
+	height: 100%;
+	overflow-y: scroll;
+	text-align: justify;
+	width: 50%;
+}
+#board {
+	background: #AAFFFF;
+	display: inline-block;
+	font: bold 20px 'Courier New';
+	padding: 20px;
+	text-align: center;
+	margin: 30px 0;
+	padding: 30px 0;
+	width: 100%;
+}
+#container {
+	position: fixed;
+	text-align: center;
+	left: 50%;
+	top: 30%;
+	width: 50%;
+}
